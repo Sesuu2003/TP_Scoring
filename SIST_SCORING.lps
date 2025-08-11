@@ -131,17 +131,17 @@
         <Filename Value="abmc_general.pas"/>
         <UnitName Value="ABMC_GENERAL"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="196"/>
-        <CursorPos X="50" Y="212"/>
+        <CursorPos Y="58"/>
         <UsageCount Value="103"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="amc_infracciones.pas"/>
         <UnitName Value="AMC_INFRACCIONES"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="224"/>
-        <CursorPos X="90" Y="240"/>
+        <TopLine Value="170"/>
+        <CursorPos X="82" Y="186"/>
         <UsageCount Value="103"/>
         <Loaded Value="True"/>
       </Unit>
@@ -157,8 +157,8 @@
         <Filename Value="archivos_conductores.pas"/>
         <UnitName Value="ARCHIVOS_CONDUCTORES"/>
         <EditorIndex Value="4"/>
-        <TopLine Value="9"/>
-        <CursorPos X="5" Y="25"/>
+        <TopLine Value="7"/>
+        <CursorPos X="3" Y="10"/>
         <UsageCount Value="103"/>
         <Loaded Value="True"/>
       </Unit>
@@ -166,7 +166,8 @@
         <Filename Value="archivos_infracciones.pas"/>
         <UnitName Value="ARCHIVOS_INFRACCIONES"/>
         <EditorIndex Value="5"/>
-        <CursorPos X="68" Y="9"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="10"/>
         <UsageCount Value="103"/>
         <Loaded Value="True"/>
       </Unit>
@@ -190,10 +191,9 @@
       <Unit>
         <Filename Value="menu.pas"/>
         <UnitName Value="MENU"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="10"/>
         <TopLine Value="246"/>
-        <CursorPos X="20" Y="268"/>
+        <CursorPos X="23" Y="263"/>
         <UsageCount Value="103"/>
         <Loaded Value="True"/>
       </Unit>
@@ -210,6 +210,7 @@
         <Filename Value="validaciones.pas"/>
         <UnitName Value="VALIDACIONES"/>
         <EditorIndex Value="12"/>
+        <TopLine Value="2"/>
         <CursorPos X="60" Y="24"/>
         <UsageCount Value="103"/>
         <Loaded Value="True"/>
@@ -229,18 +230,14 @@
         <UsageCount Value="10"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\usr\lib\fpc\src\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Filename Value="E:\usr\lib\fpc\src\packages\rtl-objpas\src\inc\dateutil.inc"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="358"/>
         <CursorPos X="10" Y="375"/>
         <UsageCount Value="9"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="menu.pas"/>
-        <Caret Line="5" Column="180"/>
-      </Position>
+    <JumpHistory HistoryIndex="28">
       <Position>
         <Filename Value="menu.pas"/>
         <Caret Line="87" Column="105" TopLine="77"/>
@@ -314,10 +311,6 @@
         <Caret Line="213" Column="42" TopLine="159"/>
       </Position>
       <Position>
-        <Filename Value="abmc_general.pas"/>
-        <Caret Line="135" Column="11" TopLine="168"/>
-      </Position>
-      <Position>
         <Filename Value="amc_infracciones.pas"/>
         <Caret Line="240" Column="93" TopLine="220"/>
       </Position>
@@ -357,6 +350,10 @@
         <Filename Value="validaciones.pas"/>
         <Caret Line="24" Column="60"/>
       </Position>
+      <Position>
+        <Filename Value="archivos_infracciones.pas"/>
+        <Caret Line="9" Column="68"/>
+      </Position>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
@@ -364,9 +361,9 @@
     </RunParams>
     <HistoryLists>
       <List Name="LaunchingApplication" Type="File" Count="3">
-        <Item1 Value="/sbin/konsole -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
-        <Item2 Value="\sbin\konsole -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)\tools\runwait.sh $(TargetCmdLine)"/>
-        <Item3 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+        <Item2 Value="/sbin/konsole -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+        <Item3 Value="\sbin\konsole -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)\tools\runwait.sh $(TargetCmdLine)"/>
       </List>
     </HistoryLists>
   </ProjectSession>

@@ -183,7 +183,7 @@ begin
            r.DNI:=x;
            colocar('|Fecha Infraccion: '+(FormatDateTime('(dd/mm/yyyy)'+'|',Date)),green,36,6);
            colocar('|DNI conductor: '+r.DNI, green,10,6);
-           colocar('(Navegue las infracciones con las flechas)',15,10,30);
+           colocar('(Navegue las infracciones y cambie de pagina con las flechas)',15,10,30);
            DecodeDate(Date,anio,mes,dia);
            r.fecha_infraccion.dia := dia;
            r.fecha_infraccion.mes := mes;

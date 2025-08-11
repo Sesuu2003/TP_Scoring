@@ -26,7 +26,7 @@
       <Modes>
         <Mode Name="default">
           <local>
-            <LaunchingApplication Use="True" PathPlusParams="\sbin\konsole -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)\tools\runwait.sh $(TargetCmdLine)"/>
+            <LaunchingApplication Use="True" PathPlusParams="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
             <Display Use="True"/>
           </local>
         </Mode>

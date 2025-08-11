@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449427374"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-FiC:\Users\Usuario\OneDrive\TP FINAL GRUPO 10\lib\x86_64-win64&quot; &quot;-FuC:\Users\Usuario\OneDrive\TP FINAL GRUPO 10\TP FINAL GRUPO 10&quot; &quot;-FuC:\Users\Usuario\OneDrive\TP FINAL GRUPO 10\&quot; &quot;-FUC:\Users\Usuario\OneDrive\TP FINAL GRUPO 10\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Usuario\OneDrive\TP FINAL GRUPO 10\&quot; &quot;-oC:\Users\Usuario\OneDrive\TP FINAL GRUPO 10\SIST_SCORING.exe&quot; SIST_SCORING.lpr"/>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1520657216"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiE:\datos\Documents\GitHub\TP_Scoring\lib\x86_64-win64 -FuE:\datos\Documents\GitHub\TP_Scoring\ &quot;-FuE:\datos\Documents\GitHub\TP_Scoring\TP FINAL GRUPO 10&quot; -FUE:\datos\Documents\GitHub\TP_Scoring\lib\x86_64-win64\ -FEE:\datos\Documents\GitHub\TP_Scoring\ -oE:\datos\Documents\GitHub\TP_Scoring\SIST_SCORING.exe SIST_SCORING.lpr"/>
 </CONFIG>
